@@ -8,8 +8,8 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="ai_free_analysis_single.svg"
-   inkscape:export-filename="../png/ai_free_analysis_single.png"
+   sodipodi:docname="ai_free_post_plural.svg"
+   inkscape:export-filename="../png/ai_free_post_plural.png"
    inkscape:export-xdpi="81.096146"
    inkscape:export-ydpi="81.096146"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -21,7 +21,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title1">AI-Free Stamp (analysis, single)</title>
+     id="title1">AI-Free Stamp (post, plural)</title>
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -32,15 +32,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="261.5"
-     inkscape:cy="242.5"
+     inkscape:zoom="1"
+     inkscape:cx="248.5"
+     inkscape:cy="332.5"
      inkscape:window-width="1850"
      inkscape:window-height="1016"
      inkscape:window-x="70"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="svg1"
+     showguides="false" />
   <defs
      id="defs1">
     <rect
@@ -223,13 +224,13 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-weight:bold;font-size:11.2889px;line-height:142%;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';letter-spacing:-0.32253px;writing-mode:lr-tb;direction:ltr;display:inline;opacity:1;fill:#225500;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+     style="font-weight:bold;font-size:11.2889px;line-height:142%;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';letter-spacing:0.5293427px;writing-mode:lr-tb;direction:ltr;opacity:1;fill:#225500;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
      id="text27"
      transform="matrix(1.0746425,0,0,1.0746425,-42.41292,-42.569994)"
      inkscape:label="outer text"><textPath
        xlink:href="#path1"
        id="textPath27"
-       style="font-size:11.2889px;letter-spacing:-0.32253px;fill:#225500;fill-opacity:1">This analysis was performed by a human without AI assistance.</textPath></text>
+       style="font-size:11.2889px;fill:#225500;fill-opacity:1;letter-spacing:0.5293427px">This post was written by humans without AI assistance.</textPath></text>
   <metadata
      id="metadata1">
     <rdf:RDF>
@@ -237,7 +238,7 @@
          rdf:about="">
         <cc:license
            rdf:resource="https://github.com/nwhitehair/ai-free-stamps/LICENSE.md" />
-        <dc:title>AI-Free Stamp (analysis, single)</dc:title>
+        <dc:title>AI-Free Stamp (post, plural)</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Nathan Whitehair</dc:title>

@@ -20,7 +20,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title1">AI-Free Stamp (product, plural)</title>
+     id="title1">AI-Free Stamp (blank, minimal)</title>
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -33,7 +33,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="1"
      inkscape:cx="197.5"
-     inkscape:cy="311.5"
+     inkscape:cy="309.5"
      inkscape:window-width="1850"
      inkscape:window-height="1016"
      inkscape:window-x="70"
@@ -219,7 +219,7 @@
          rdf:about="">
         <cc:license
            rdf:resource="https://github.com/nwhitehair/ai-free-stamps/LICENSE.md" />
-        <dc:title>AI-Free Stamp (product, plural)</dc:title>
+        <dc:title>AI-Free Stamp (blank, minimal)</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Nathan Whitehair</dc:title>
