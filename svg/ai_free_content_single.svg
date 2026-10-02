@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160.36275mm"
+   height="160.36275mm"
+   viewBox="0 0 160.36274 160.36274"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="ai_free_content_single.svg"
+   inkscape:export-filename="../png/ai_free_content_single.png"
+   inkscape:export-xdpi="81.096146"
+   inkscape:export-ydpi="81.096146"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">AI-Free Stamp (content, single)</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="319.5"
+     inkscape:cy="308.5"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <rect
+       x="109.34532"
+       y="49.828247"
+       width="152.25298"
+       height="76.126488"
+       id="rect3" />
+    <rect
+       x="202.08122"
+       y="55.364719"
+       width="214.53828"
+       height="110.72944"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="stamp background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-33.906558,-33.906558)"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="stamp outline"
+       transform="translate(33.906558,33.906558)">
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.49;stroke-dasharray:none;stroke-opacity:1"
+         id="path12-3"
+         cx="114.08793"
+         cy="114.08793"
+         r="79.936371"
+         transform="translate(-33.906558,-33.906558)" />
+    </g>
+    <path
+       id="path1"
+       style="display:inline;fill:#44aa00;stroke-width:0.333108"
+       d="M 58.434681,82.307634 A 64.087547,64.087547 0 0 1 145.86759,58.434681 64.087547,64.087547 0 0 1 169.74054,145.86759 64.087547,64.087547 0 0 1 82.307634,169.74054 64.087547,64.087547 0 0 1 58.434681,82.307634 Z m 8.347693,4.766856 a 54.474415,54.474415 0 0 0 20.292374,74.3179 54.474415,54.474415 0 0 0 74.317642,-20.29192 54.474415,54.474415 0 0 0 -20.29166,-74.3181 54.474415,54.474415 0 0 0 -74.318356,20.29212 z"
+       inkscape:export-filename="no_ann.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       inkscape:label="inner ring" />
+    <circle
+       style="display:inline;fill:none;stroke:#225500;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
+       id="path12"
+       cx="114.0875"
+       cy="114.08749"
+       r="65.254181"
+       inkscape:label="outer ring" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="neural network"
+     transform="translate(-33.906558,-33.906558)"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="synapses">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#225500;stroke-width:3.175;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 81.969017,95.387541 106.84792,108.06992"
+         id="path3"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#225500;stroke-width:3.175;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 81.969017,131.01232 106.84792,118.32994"
+         id="path4"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#225500;stroke-width:3.175;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 81.969016,141.27235 24.878904,12.68238"
+         id="path5"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#225500;stroke-width:3.175;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 78.146681,126.59777 110.67026,76.859694"
+         id="path6"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#00ffff;fill-rule:evenodd;stroke:#225500;stroke-width:3.175;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 81.969017,85.127522 106.84792,72.445145"
+         id="path7"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#225500;stroke-width:3.175;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 78.14668,99.80209 32.52358,49.7381"
+         id="path8"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#225500;stroke-width:3.175;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 124.8674,150.97338 29.09391,-29.66209"
+         id="path9"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#225500;stroke-width:3.175;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 128.16288,113.19993 h 22.50295"
+         id="path10"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#225500;stroke-width:3.175;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 124.8674,75.426497 29.09391,29.662073"
+         id="path11"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g11"
+       transform="matrix(1.0063377,0,0,1.0259903,-0.37241085,-2.5663716)"
+       inkscape:label="neurons"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#225500;stroke-width:3.12464;stroke-dasharray:none">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#225500;stroke-width:3.12464;stroke-dasharray:none;stroke-opacity:1"
+         id="path2"
+         cx="71.822746"
+         cy="90.472496"
+         r="11.180611" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#225500;stroke-width:3.12464;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-6"
+         cx="116.54519"
+         cy="68.111275"
+         r="11.180611" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#225500;stroke-width:3.12464;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-6-2"
+         cx="116.54519"
+         cy="112.83372"
+         r="11.180611" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#225500;stroke-width:3.12464;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-6-2-9"
+         cx="161.26764"
+         cy="112.83372"
+         r="11.180611" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#225500;stroke-width:3.12464;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-3"
+         cx="71.822746"
+         cy="135.19495"
+         r="11.180611" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#225500;stroke-width:3.12464;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-6-5"
+         cx="116.54519"
+         cy="157.55618"
+         r="11.180611" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="stamp foreground"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#44aa00;stroke:none;stroke-width:0.593417;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11"
+       width="12.81751"
+       height="121.58322"
+       x="107.35616"
+       y="-60.921085"
+       transform="rotate(45)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.44888206,-0.44888206,0.44888206,0.44888206,-29.88636,133.80071)"
+       id="text3"
+       style="font-weight:bold;font-size:18.6667px;line-height:142%;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="109.3457"
+         y="68.681492"
+         id="tspan1">100% AI FREE!</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:11.2889px;line-height:142%;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';letter-spacing:0.39885357px;writing-mode:lr-tb;direction:ltr;opacity:1;fill:#225500;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+     id="text27"
+     transform="matrix(1.0746425,0,0,1.0746425,-42.41292,-42.569994)"
+     inkscape:label="outer text"
+     inkscape:export-filename="../png/ai_free_product_single.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
+       xlink:href="#path1"
+       id="textPath27"
+       style="font-size:11.2889px;fill:#225500;fill-opacity:1;letter-spacing:0.39885357px">This content was made by a human without AI assistance.</textPath></text>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="https://github.com/nwhitehair/ai-free-stamps/LICENSE.md" />
+        <dc:title>AI-Free Stamp (content, single)</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Nathan Whitehair</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>English</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
